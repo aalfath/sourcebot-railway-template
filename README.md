@@ -1,5 +1,7 @@
 # Deploy and Host Sourcebot on Railway
 
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/new/template/sourcebot?utm_medium=integration&utm_source=button&utm_campaign=sourcebot)
+
 Sourcebot is a self-hosted code search and navigation tool. It indexes repositories from GitHub, GitLab, Bitbucket, Gitea and plain Git with Zoekt, then offers fast regex and symbol search, cross-repository navigation, a code browser, an API and an MCP server so AI agents can search your codebase.
 
 ## About Hosting Sourcebot
